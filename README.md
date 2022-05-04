@@ -6,3 +6,4 @@ Practice Markdown
 
 Branch Practice
 -----------
+<p>Here is a paragraph.</p>
